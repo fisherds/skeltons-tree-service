@@ -1,12 +1,26 @@
 body {
-    background: #DDDDDD;
+    background: gray;
 }
 
 .navbar {
-    background-color: #800000;
+    
+    background-color: #657A55;
     color: white;
 }
 
 .page-container {
     margin-top: 75px;
 }
+
+#treeImage, #lawnImage {
+    width: 80%;
+    margin: 30px auto;
+}
+#lawnImage {
+opacity: .7;
+}
+
+/*
+FFF5DB
+#9CC27E
+*/
