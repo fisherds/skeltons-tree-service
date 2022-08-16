@@ -12,6 +12,15 @@ body {
     margin-top: 75px;
 }
 
+.card {
+    background-color:#FFF5DB;
+}
+.btn {
+    padding: 0;
+}
+.jumbotron {
+    padding: 32px;
+}
 #treeImage, #lawnImage {
     width: 80%;
     margin: 30px auto;
@@ -20,6 +29,9 @@ body {
 opacity: .7;
 }
 
+.alert {
+    margin-bottom: 0;
+}
 /*
 FFF5DB
 #9CC27E
